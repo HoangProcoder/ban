@@ -1,0 +1,38 @@
+{
+  "Config_Version": "1.0.4",
+  "Language": "vi",
+  "AutoUpdate": true,
+  "MainColor": "#9900FF",
+  "MainName": "[ FCA-ZEID ]",
+  "Uptime": false,
+  "Config": "default",
+  "DevMode": false,
+  "Login2Fa": false,
+  "AutoLogin": false,
+  "BroadCast": true,
+  "AuthString": "SD4S XQ32 O2JA WXB3 FUX2 OPJ7 Q7JZ 4R6Z | https://i.imgur.com/RAg3rvw.png Please remove this !, Recommend If You Using getUserInfoV2",
+  "EncryptFeature": true,
+  "ResetDataLogin": false,
+  "AutoInstallNode": false,
+  "AntiSendAppState": false,
+  "AutoRestartMinutes": 0,
+  "RestartMQTT_Minutes": 0,
+  "HTML": {
+    "HTML": true,
+    "Port": "5000",
+    "Title": "Web Info",
+    "AvtLink": "https://i.imgur.com/SPTKasU.jpg",
+    "UserName": "Guest",
+    "Description": "Im Using Fca-Zeid",
+    "FacebookLink": "https://m.me/j/Aba5VEIYbL_Eg54E/"
+  },
+  "AntiGetInfo": {
+    "Database_Type": "default",
+    "AntiGetThreadInfo": true,
+    "AntiGetUserInfo": true
+  },
+  "Stable_Version": {
+    "Accept": false,
+    "Version": ""
+  }
+}
